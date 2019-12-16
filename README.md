@@ -1,2 +1,1 @@
-#Webpage
-![][(img/cabbage.png)]
+![](https://github.com/GetMyLove/Webpage/blob/master/img/cabbage.png)
