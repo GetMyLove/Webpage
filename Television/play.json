@@ -1,0 +1,69 @@
+{
+	"name": "play.json",
+	"num": 4,
+	"books":[
+  {
+    "url": "25222",
+    "title": "都发给对方付大哥",
+    "images": "[http://img.zxziyuan.com/images/upload/vod/2018-07-16/7161531739636.jpg]",
+    "name": "油按摩",
+    "translateTitle": "사지",
+    "area": "中国",
+    "style": "动作片",
+    "language": "中文",
+    "publishDate": "2020",
+    "director": "史",
+    "actor": "美",
+    "describtion": "无聊的今天师...",
+    "playSource": "[http://yun.kubo-zy-youku.com/ppvod/921DFD3DE7A93C5B4FD3CC1FCAB9278D.m3u8]",
+    "star": "400"
+  },  {
+    "url": "58462",
+    "title": "单方事故水电费嘎嘎",
+    "images": "[http://img.zxziyuan.com/images/upload/vod/2018-07-16/7161531739636.jpg]",
+    "name": "女东方饭店更换发的摩",
+    "translateTitle": "从吧是传播性传播传播是擦边词不保存v",
+    "area": "中国",
+    "style": "喜剧",
+    "language": "中文",
+    "publishDate": "2020",
+    "director": "史",
+    "actor": "美",
+    "describtion": "无聊的今天师...",
+    "playSource": "[http://yun.kubo-zy-youku.com/ppvod/921DFD3DE7A93C5B4FD3CC1FCAB9278D.m3u8]",
+    "star": "300"
+  }
+  ,  {
+    "url": "58462",
+    "title": "大丰港大地飞歌",
+    "images": "[http://img.zxziyuan.com/images/upload/vod/2018-07-16/7161531739636.jpg]",
+    "name": "很让人摩",
+    "translateTitle": "哈哈哈哈지",
+    "area": "中国",
+    "style": "科幻",
+    "language": "中文",
+    "publishDate": "2020",
+    "director": "史",
+    "actor": "美",
+    "describtion": "无聊的今天师...",
+    "playSource": "[http://yun.kubo-zy-youku.com/ppvod/921DFD3DE7A93C5B4FD3CC1FCAB9278D.m3u8]",
+    "star": "100"
+  }
+  ,  {
+    "url": "58462",
+    "title": "哈尔哈地方",
+    "images": "[http://img.zxziyuan.com/images/upload/vod/2018-07-16/7161531739636.jpg]",
+    "name": "女职员精油按摩",
+    "translateTitle": "여직원 오일마사지",
+    "area": "中国",
+    "style": "魔鬼片",
+    "language": "中文",
+    "publishDate": "2020",
+    "director": "史",
+    "actor": "美",
+    "describtion": "无聊的今天师...",
+    "playSource": "[http://yun.kubo-zy-youku.com/ppvod/921DFD3DE7A93C5B4FD3CC1FCAB9278D.m3u8]",
+    "star": "200"
+  }
+]
+}
